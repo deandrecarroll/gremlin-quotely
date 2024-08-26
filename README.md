@@ -36,6 +36,7 @@ The exercise took the maximum amount of time allotted as there were some issues
 with environment and git management. With that in mind, I would have done the following
 had I invested more time...
 
+* Spent time developing more granular unit tests up front
 * Add a more specific exception type to the Quotely service so as not to depend
 too heavily on RuntimeExceptions
 * Added more thorough response checks from the API output
