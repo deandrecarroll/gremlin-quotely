@@ -19,6 +19,7 @@ In the `Quotely` directory, run the following...
 ```shell
 $ mvn compile
 $ mvn package
+$ chmod u+x quotely
 ```
 
 Once the project has been successfully compile and packaged, the utility can be
